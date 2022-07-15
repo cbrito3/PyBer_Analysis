@@ -3,8 +3,9 @@
 
 #Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 #The analysis should contain the following:
+
 ## Overview of the analysis: Explain the purpose of the new analysis.
-#Based on the brand-new assignment Omar was given, we will create a summary DataFrame of the ride-sharing data by city type. Using Pandas and Matplotlib, we will create a graph that should show the total weekly fares for each city type. At the end, we will create a graph that differs by city type that should help PyBer decision-makers. 
+Based on the brand-new assignment Omar was given, we will create a summary DataFrame of the ride-sharing data by city type. Using Pandas and Matplotlib, we will create a graph that should show the total weekly fares for each city type. At the end, we will create a graph that differs by city type that should help PyBer decision-makers. 
 
 ## This new assignment consists of two technical analysis deliverables and a written report to present your results. You will submit the following:
 Deliverable 1: A ride-sharing summary DataFrame by city type
