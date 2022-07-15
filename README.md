@@ -18,7 +18,7 @@ Deliverable 3: A written report for the PyBer analysis (README.md)
 
 The image attached show the Total Fare by City Type, we can see how the fare in $US changes from week/month to week/month. We can see that the lower fares happen in rural cities, suburban cities are in the middle, and the fares that are higher are in the urban cities. 
 
-Total Fare by City Type https://github.com/cbrito3/PyBer_Analysis/blob/main/Analysis/Fig8.png
+![Fig8](https://github.com/cbrito3/PyBer_Analysis/blob/main/Analysis/Fig8.png)
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
