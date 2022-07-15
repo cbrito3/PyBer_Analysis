@@ -15,7 +15,11 @@
 # The image attached show the Total Fare by City Type, we can see how the fare in $US changes from week/month to week/month. We can see that the lower fares happen in rural cities, suburban cities are in the middle, and the fares that are higher are in the urban cities. 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-#Based on these results, the three business recommendations to the CEO for addressing any disparities among the city types would be: 
-#1. I would suggess to look at the time/hour for the rides, this can help the CEO get a better idea about what time of day the rides are more popular. 
-#2. I would suggest to look at the consistency of the fares per ride, maybe the numbers went up for a particular week. 
-#3. It would be helpful to know how many competitors PyBer has per city type because this could influence the use of its services among consumers.
+
+Based on these results, the three business recommendations to the CEO for addressing any disparities among the city types would be: 
+
+1. I would suggess to look at the time/hour for the rides, this can help the CEO get a better idea about what time of day the rides are more popular. 
+
+2. I would suggest to look at the consistency of the fares per ride, maybe the numbers went up for a particular week. 
+
+3. It would be helpful to know how many competitors PyBer has per city type because this could influence the use of its services among consumers.
